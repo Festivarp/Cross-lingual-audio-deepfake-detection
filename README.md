@@ -1,6 +1,6 @@
+This readme does not have the final results or kathbath datasaet info
 # Cross-Lingual Audio Deepfake Detection in Indic Languages
-
-**Parv Shah (23BCE219) · Divya Patel (23BCE227)** — Department of Computer Science and Engineering, Nirma University, Ahmedabad
+**Parv Shah (23BCE219) — Department of Computer Science and Engineering, Nirma University, Ahmedabad
 
 An end-to-end pipeline for quantifying and mitigating the cross-lingual generalization gap in audio deepfake detection, using a Triple-Branch ResNeXt that fuses MFCC, LFCC and CQCC features.
 
