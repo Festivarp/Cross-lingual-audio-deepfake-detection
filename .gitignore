@@ -1,0 +1,25 @@
+# Ignore everything by default
+*
+
+# Allow only these
+!.gitignore
+!deepfake_detection/
+!deepfake_detection/**
+!tools/
+!tools/**
+!demo_audio/
+!demo_audio/**
+!demo.py
+!requirements.txt
+!README.md
+!mentor_demo_features.ipynb
+!rmsdhoni (1).ipynb
+
+# Still skip junk inside the allowed folders (these must come after the allows)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors

@@ -1,0 +1,11 @@
+﻿language,pair,gender,real_file,real_duration_s,fake_file,fake_duration_s,tts_engine,tts_voice,transcript
+English,1,male,english_real_1.wav,5.36,english_fake_1.wav,4.44,edge-tts,en-US-GuyNeural,But there are a lot of things about birds that still look like a dinosaur.
+English,2,female,english_real_2.wav,5.64,english_fake_2.wav,6.96,edge-tts,en-US-AriaNeural,"Virtual teams are held to the same standards of excellence as conventional teams, but there are subtle differences."
+English,3,female,english_real_3.wav,5.64,english_fake_3.wav,5.88,edge-tts,en-US-AriaNeural,"In some areas boiling water for a minute is enough, in others several minutes are needed."
+English,4,male,english_real_4.wav,5.72,english_fake_4.wav,5.18,edge-tts,en-US-GuyNeural,The Internet combines elements of both mass and interpersonal communication.
+English,5,female,english_real_5.wav,5.76,english_fake_5.wav,6.58,edge-tts,en-US-AriaNeural,The cabbage juice changes color depending on how acidic or basic (alkaline) the chemical is.
+Gujarati,1,male,gujarati_real_1.wav,4.32,gujarati_fake_1.wav,5.09,edge-tts,gu-IN-NiranjanNeural,તે મારિયાની નીચે પાતળું અને ઊંચાઈની નીચે જાડું હોય.
+Gujarati,2,male,gujarati_real_2.wav,5.4,gujarati_fake_2.wav,5.71,edge-tts,gu-IN-NiranjanNeural,રાસાયણિકમાં હાઇડ્રોજનની શક્તિના આધારે કોબીનો રસ રંગ બદલાય.
+Gujarati,3,male,gujarati_real_3.wav,5.88,gujarati_fake_3.wav,7.32,edge-tts,gu-IN-NiranjanNeural,"સિંહો સૌથી વધુ સામાજિક બિલાડીઓ છે, જે ગૌરવ નામે ઓળખાતા મોટા જૂથમાં રહે."
+Gujarati,4,male,gujarati_real_4.wav,6.84,gujarati_fake_4.wav,7.97,edge-tts,gu-IN-NiranjanNeural,આ રસાયણનું pH કહેવાય છે. તમે લાલ કોબીજનો રસ વાપરીને સૂચક બનાવી શકો છો.
+Gujarati,5,female,gujarati_real_5.wav,6.9,gujarati_fake_5.wav,9.41,edge-tts,gu-IN-DhwaniNeural,"મહિલાઓ: એવી સલાહ છે કે કોઈ પણ મહિલા મુસાફરે તે પરિણીત છે તેમ જ કહેવું, ભલે તેઓ પરણેલા હોય કે ન હોય."

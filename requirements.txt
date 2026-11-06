@@ -1,0 +1,19 @@
+# Cross-Lingual Audio Deepfake Detection - pipeline dependencies
+# Pinned to the versions this pipeline was actually run with.
+torch==2.13.0
+torchaudio==2.11.0
+librosa==1.0.0
+soundfile==0.14.0
+scipy>=1.11
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+matplotlib>=3.8
+datasets==5.0.1
+huggingface_hub>=0.28
+pyarrow>=15.0
+edge-tts==7.2.8          # matched-pair demo notebook only
+gTTS==2.5.4              # fallback TTS for the demo notebook
+python-docx==1.2.0       # paper -> .docx conversion
+nbformat>=5.10
+jupyter>=1.0
